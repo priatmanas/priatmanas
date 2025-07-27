@@ -26,16 +26,15 @@ My name is **Fauzan Priatmana** or call me **Faw**.
 
 <table>
     <td valign="top" width="33%">
-        <b>About Me:</b>
+        ### About Me
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam asperiores obcaecati, eius necessitatibus, ratione nemo quo doloribus consectetur debitis harum eligendi sint! Quas ipsam ea quidem repellat magni illum error?
     </td>
-
-    <td valign="top" width="33%">About Me
-        <b>Social Media:</b>
+    <td valign="top" width="33%">
+        ### Social Media
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora possimus corporis ipsa. Hic pariatur consequuntur minus suscipit unde consequatur autem at, in atque, cumque quas eius consectetur sunt eaque doloribus.
     </td>
     <td valign="top" width="33%">
-        <b>More Source:</b>
+        ### More Source:
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum soluta delectus rem doloremque repellat fugit eveniet, placeat modi architecto hic labore odit dolorem aperiam quisquam facilis ipsam voluptatem, dignissimos necessitatibus.
     </td>
 
