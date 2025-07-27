@@ -16,26 +16,29 @@ My name is **Fauzan Priatmana** or call me **Faw**.
 
 ---
 
-## ![TamaFawx](./assets/Untitled-1.jpg)
+<!-- ## ![TamaFawx](./assets/Untitled-1.jpg) -->
 
-# 🦊 Fawzan Priatmana
+<h1 align='center'>🦊 Fawzan Priatmana</h1>
 
-**Hi there 👋🏼, I'm Faw**. I'm an undergraduate student who still studying in `Informatics Engineering` or `Computer Science`.
+**Hi there 👋🏼, I'm Faw**. I'm an undergraduate college student who still studying in `Informatics Engineering` or `Computer Science`. I'm not really good with it but... let's try!
 
-## Resource
+## My Stuff
 
 <table>
     <td valign="top" width="33%">
-        ### About Me
+        <b>Languages</b><br/>
+        [![Instagram](https://img.shields.io/badge/%40priatmanas-FF0069?style=for-the-badge&logo=instagram&logoSize=auto)][![Instagram](https://img.shields.io/badge/%40priatmanas-FF0069?style=for-the-badge&logo=instagram&logoSize=auto)]
+    </td>
+    <td valign="top" width="33%">
+        <b>Tools</b><br/>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam asperiores obcaecati, eius necessitatibus, ratione nemo quo doloribus consectetur debitis harum eligendi sint! Quas ipsam ea quidem repellat magni illum error?
     </td>
-    <td valign="top" width="33%">
-        ### Social Media
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora possimus corporis ipsa. Hic pariatur consequuntur minus suscipit unde consequatur autem at, in atque, cumque quas eius consectetur sunt eaque doloribus.
-    </td>
-    <td valign="top" width="33%">
-        ### More Source:
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum soluta delectus rem doloremque repellat fugit eveniet, placeat modi architecto hic labore odit dolorem aperiam quisquam facilis ipsam voluptatem, dignissimos necessitatibus.
-    </td>
-
 </table>
+
+<!-- ## Resource
+
+<table>
+    <td valign="top" width="33%">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam asperiores obcaecati, eius necessitatibus, ratione nemo quo doloribus consectetur debitis harum eligendi sint! Quas ipsam ea quidem repellat magni illum error?
+    </td>
+</table> -->
